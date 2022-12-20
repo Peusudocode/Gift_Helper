@@ -1,0 +1,11 @@
+conda install -c conda-forge pygraphviz
+
+
+
+https://fe19-140-116-191-194.jp.ngrok.io
+
+
+
+先下載Graphviz
+
+pip install --global-option=build_ext --global-option="-IC:\Program Files\Graphviz\include" --global-option="-LC:\Program Files\Graphviz\lib" pygraphviz
